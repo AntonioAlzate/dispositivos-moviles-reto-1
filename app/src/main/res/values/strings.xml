@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Reto Dispositivos Móviles #1</string>
+
+    <string name="titulo_principal">Menú Principal</string>
+    <string name="opcion_formulario">Formulario</string>
+    <string name="opcion_presentacion">Presentación</string>
+    <string name="opcion_calcular_edad">Calcular Edad</string>
+
+    <string name="titulo_formulario">Formulario</string>
+    <string name="txt_hint_nombre">Nombre</string>
+    <string name="txt_hint_apellido">Apellido</string>
+    <string name="txt_hint_telefono">Telefono</string>
+    <string name="opcion_enviar_formulario">Enviar</string>
+    <string name="campos_sin_diligenciar">Todos los campos son obligatorios</string>
+    <string name="campo_requerido">Requerido</string>
+
+
+    <string name="titulo_presentacion">Presentación Integrantes</string>
+    <string name="nombre_integrante_1">Camila</string>
+    <string name="nombre_integrante_2">Santiago</string>
+    <string name="nombre_integrante_3">Antonio</string>
+
+    <string name="titulo_calcular_edad">Calcular Edad</string>
+    <string name="opcion_calcular">Calcular</string>
+    <string name="hint_edad">Fecha de nacimiento</string>
+    <string name="fecha_requerida">Fecha Requerida</string>
+    <string name="fecha_no_valida">La fecha ingresada no es valida</string>
+
+</resources>
